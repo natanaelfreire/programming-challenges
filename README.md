@@ -1,2 +1,2 @@
 # programming-challenges
-Some problems of the book Programming Challenges solved in C
+Some problems from the book Programming Challenges solved in C/C++
